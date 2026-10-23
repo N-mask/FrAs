@@ -1,4 +1,1 @@
-###Usage:
-#Linux
-'''bash
 
