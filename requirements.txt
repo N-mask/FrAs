@@ -1,0 +1,10 @@
+click
+dlib
+face-recognition
+face_recognition_models
+numpy
+opencv-contrib-python
+opencv-python
+pillow
+pip
+setuptools<70.0.0
